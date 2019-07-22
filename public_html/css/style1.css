@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css?family=Belgrano&display=swap');
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Belgrano', serif;
+    width: 90%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+nav, header, main, footer{
+    width: inherit;
+    text-align: center;
+}
+nav{
+    background-color: aquamarine;
+}
+
+header{
+    border-radius: 20px 20px 0 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: aquamarine;
+    color: orangered;
+    font-size: xx-large;
+    text-shadow: 1px 1px 4px black;
+}
+
+main{
+    
+}
+
+footer{
+    border-radius: 0 0 5px 5px;
+    background-color: aquamarine;
+    font-size: small;
+    padding-bottom: 10px;
+}
+
+section{
+    
+}
+
